@@ -1,5 +1,4 @@
-# ChatGPT-Model
-I am trying to use ChatGPT to construct a machine learning protein design model.
+# ChatGPT-Model: I am trying to use ChatGPT to construct a machine learning protein design model.
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras.layers import Input, Embedding, Dense, Dropout
